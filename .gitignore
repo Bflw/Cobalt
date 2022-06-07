@@ -1,0 +1,12 @@
+.settings/
+.idea/
+!.idea/.gitignore
+.classpath
+.project
+*.iml
+
+# Build files
+build/
+bin/
+/.idea/
+/.gradle/
