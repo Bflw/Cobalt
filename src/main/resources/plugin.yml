@@ -1,0 +1,9 @@
+name: Cobalt
+version: 1.0.0-SNAPSHOT
+main: pl.blueflow.cobalt.plugin.BukkitPlugin
+api-version: 1.19
+
+author: Blueflow
+authors:
+    - https://blueflow.pl
+    - https://github.com/Bflw/Cobalt/graphs/contributors
